@@ -24,9 +24,7 @@ A simple yet powerful application that provides real-time weather data and locat
 
 ## 🛠️ Technologies Used
 
-- Python
 - Geolocation APIs
 - Weather APIs (e.g., OpenWeatherMap)
-- Map Libraries (e.g., Folium, Leaflet.js)
+- Map Libraries (e.g., JSON and AJAX)
 - Flask / Streamlit (if applicable)
-- JSON and AJAX(Frond end Technologies)
