@@ -29,10 +29,4 @@ A simple yet powerful application that provides real-time weather data and locat
 - Weather APIs (e.g., OpenWeatherMap)
 - Map Libraries (e.g., Folium, Leaflet.js)
 - Flask / Streamlit (if applicable)
-
-## 📌 Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/weather-prediction-app.git
-   cd weather-prediction-app
+- JSON and AJAX(Frond end Technologies)
